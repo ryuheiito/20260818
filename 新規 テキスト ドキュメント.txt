@@ -1,0 +1,44 @@
+【参考資料】
+
+■法令・規格
+1. クレーン等安全規則（昭和47年労働省令第34号）第37条〜第39条
+   厚生労働省
+   https://www.mhlw.go.jp/web/t_doc?dataId=74020000
+
+2. JIS B 8842:2020「クレーン－耐震設計に関する原則」
+   日本産業標準調査会／日本規格協会
+
+3. クレーン構造規格の適用について（平成8年3月26日 基発第47号）
+   厚生労働省
+   https://www.mhlw.go.jp/web/t_doc?dataId=00tb2128
+
+■業界団体資料
+4. 「地震等災害後の点検チェックリスト（参考）」
+   一般社団法人 ボイラ・クレーン安全協会
+   https://www.bcsa.or.jp/kensa/youshiki/post-3.html
+
+5. 災害事例「地震による天井クレーンの落下事故」
+   一般社団法人 ボイラ・クレーン安全協会
+   https://www.bcsa.or.jp/kakushuzhoho/cat5/cat5/post-10.html
+
+6. 「令和2年におけるクレーン等の災害発生状況」
+   一般社団法人 ボイラ・クレーン安全協会
+   https://www.bcsa.or.jp/kakushuzhoho/R2_crane.pdf
+
+7. 安全のすすめ「走行クレーンの逸走防止対策」
+   一般社団法人 日本クレーン協会
+   https://cranenet.or.jp/susume/susume10_09.html
+
+■メーカー公開資料
+8. 「クレーン地震対策（クレーングリッパー）」
+   不二工業株式会社
+   https://www.fuji-kougyo.co.jp/cranegripper/
+
+9. 「天井クレーン用 地震対策製品」
+   株式会社今井鉄工所
+   https://pr.mono.ipros.com/imaitekkosho/product/detail/2000408762/
+
+■図版について
+・スライド28の断面概念図は、天井クレーンの一般的な構成をもとに当社が作成した
+  模式図であり、実機の縮尺・形状を示すものではない。図中の注記は上記4〜9の
+  記述内容を反映している。
